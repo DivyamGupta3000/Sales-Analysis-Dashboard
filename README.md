@@ -29,3 +29,8 @@ This project is licensed under the MIT License. You are free to modify, distribu
 ## Contributing
 Contributions to the Sales Analysis Dashboard are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request to this repository. Your contributions can help enhance the functionality and usability of the dashboard for all users.
 ## Screenshots
+![Screenshot (15)](https://github.com/DivyamGupta3000/Sales-Analysis-Dashboard/assets/108221297/bbc955b1-b49c-4742-9ff3-71e8f3a32836)
+
+![Screenshot (16)](https://github.com/DivyamGupta3000/Sales-Analysis-Dashboard/assets/108221297/3a9cadc7-4a1d-473a-882b-ef46b9161e3d)
+
+
